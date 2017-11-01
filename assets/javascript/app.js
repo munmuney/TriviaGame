@@ -89,7 +89,7 @@ function set() {
 }
 
 function go() {
-	$("#game").html("<h2>Go!</h2>");		
+	$("#game").html("<h2>Go!</h2>"); 		
 	setTimeout(nextQuestion,1000);
 }
 
